@@ -1,4 +1,4 @@
-# Products Comparison
+# compare: Products Comparison
 
 Products comparison is a project where you can select the Item from the list of the products comparing side by side and filter the desired attributes as per the requirement.
 
