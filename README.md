@@ -21,4 +21,4 @@ npm start
 ```
 
 ## Implementation
-I have started building the project by following the shared document from Almabase and made a few style and colour change, added few animations, made it most of the browsers compatible and maintained code standards and added comments wherever it is necessary haven't used any of the packages.
+I have started building the project by following the shared document from Almabase by Creating structure and functionalities and started making a few style and colour change, added few animations, made it most of the browsers compatible and maintained code standards and added comments wherever it is necessary haven't used any of the packages tried acheiving the Peoject as near as possible.
