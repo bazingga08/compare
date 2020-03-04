@@ -4,7 +4,7 @@ Products comparison is a project where you can select the Item from the list of 
 
 ## Installation
 
-clone this [github]() repository and execute the following comands
+clone this [github](https://github.com/addepalli8/compare) repository and execute the following comands
 
 ```bash
 npm i --save
