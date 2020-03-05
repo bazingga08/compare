@@ -258,7 +258,7 @@ class Home extends Component<Props, State> {
     if (this.state.search && this.state.search.length) {
       const foundListLength = attribList.filter(item =>
         this.state.search
-          ? item.name.toLowerCase().indexOf(this.state.search) > -1
+          ? item.name.toLowerCase().indexOf(this.state.search.toLowerCase()) > -1
           : ""
       ).length;
       // to show the no results found if search is inappropirate and button of clear search
@@ -281,7 +281,7 @@ class Home extends Component<Props, State> {
           {attribList
             .filter(item =>
               this.state.search
-                ? item.name.toLowerCase().indexOf(this.state.search) > -1
+                ? item.name.toLowerCase().indexOf(this.state.search.toLowerCase()) > -1
                 : ""
             )
             .map(item => (
